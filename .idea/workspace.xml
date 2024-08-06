@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35bb19bb-7a92-473e-a159-8adbf0a5f179" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="35bb19bb-7a92-473e-a159-8adbf0a5f179" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +24,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/hu-292",
+    "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/andres/Documents/Examen/QALAB2024",
     "node.js.detected.package.eslint": "true",
@@ -54,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722908644410</updated>
       <workItem from="1722908645385" duration="670000" />
-      <workItem from="1722909488993" duration="142000" />
+      <workItem from="1722909488993" duration="737000" />
     </task>
     <servers />
   </component>

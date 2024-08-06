@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35bb19bb-7a92-473e-a159-8adbf0a5f179" name="Changes" comment="" />
+    <list default="true" id="35bb19bb-7a92-473e-a159-8adbf0a5f179" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kGSuUcPf17FKearDF4ZiKkNOcp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +26,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/hu-292",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/andres/Documents/Examen/QALAB2024",
     "node.js.detected.package.eslint": "true",
@@ -51,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722908644410</updated>
       <workItem from="1722908645385" duration="670000" />
+      <workItem from="1722909488993" duration="142000" />
     </task>
     <servers />
   </component>

@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cb7c7c4-3a25-4567-b165-8e070c1b20e5" name="Changes" comment="" />
+    <list default="true" id="da617a3f-090e-471e-a6af-2f69381fb9a7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2EDbPp2j52zPE55K8z5wIIucoE0" />
+  <component name="ProjectId" id="2EM9yv8gN1PPvP1fOhyVwzPjeO6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +31,7 @@
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ArrayMulti" />
+      <module name="POO_Game" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -33,11 +40,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7cb7c7c4-3a25-4567-b165-8e070c1b20e5" name="Changes" comment="" />
-      <created>1662133085421</created>
+      <changelist id="da617a3f-090e-471e-a6af-2f69381fb9a7" name="Changes" comment="" />
+      <created>1662394848125</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1662133085421</updated>
+      <updated>1662394848125</updated>
     </task>
     <servers />
   </component>
